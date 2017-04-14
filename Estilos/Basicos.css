@@ -134,10 +134,15 @@ article h1{
 }
 
 article h2{
+	text-align:left;
 	color: orange;
 	font-family: Verdana,sans-serif;
 }
-
+article h4{
+	text-align: left;
+	color: orange;
+	font-family: Verdana,sans-serif;
+}
 article p{
 	font: oblique 120% Verdana,sans-serif bold;
 	text-align: left;
@@ -147,4 +152,8 @@ aside{
 	float:right;
 	text-align: right;
 	margin-top:10px;	
+}
+
+.lista{
+	font-weight: bold;
 }
