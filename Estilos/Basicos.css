@@ -131,6 +131,10 @@ article h1{
 	text-align:left;
 	color: green;
 	font-family: Verdana,sans-serif;
+
+}
+p{
+    text-align: justify;
 }
 
 article h2{
